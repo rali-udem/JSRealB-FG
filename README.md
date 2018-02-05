@@ -19,7 +19,7 @@ live demos.
 * [99 bottles of beer: a repetitive text in English](https://rawgit.com/rali-udem/JSrealB/master/test/manual_test/99BottlesOfBeer/index.html)
 * [1 km à pied: a repetitive text in French](https://rawgit.com/rali-udem/JSrealB/master/test/manual_test/KilometresAPied/index.html)
 * [Date generation](https://rawgit.com/rali-udem/JSrealB/master/test/manual_test/date/index.html)
-* [Exercises in style à la Raymond Queneau](http://rawgit.com/rali-udem/JSrealB/master/test/manual_test/ExercicesDeStyle/ExerciceDeStyle.html) [[JavaScript code](test/manual_test/ExercicesDeStyle/ExercicesDeStyle.js)] [[The Exercices on Wikipedia](https://en.wikipedia.org/wiki/Exercises_in_Style)]
+* [Exercises in style à la Raymond Queneau](http://rawgit.com/rali-udem/JSrealB/master/test/manual_test/ExercicesDeStyle/ExerciceDeStyle.html) [[JavaScript code](test/manual_test/ExercicesDeStyle/ExercicesDeStyle.js)] [[The Exercises on Wikipedia](https://en.wikipedia.org/wiki/Exercises_in_Style)]
 
 ## IDE
 
